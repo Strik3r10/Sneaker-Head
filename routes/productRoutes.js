@@ -1,0 +1,1 @@
+// Initialize MERN project structure
