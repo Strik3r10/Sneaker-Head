@@ -3,3 +3,5 @@
 console.log('Commit #3: Implement CRUD routes for products');
 // Fix CORS issues
 console.log('Commit #19: Fix CORS issues');
+// some db config updates
+console.log('Commit #2: some db config updates');
