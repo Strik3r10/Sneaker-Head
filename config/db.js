@@ -7,3 +7,5 @@ console.log('Commit #13: Setup Redux for global cart management');
 console.log('Commit #16: Add bcrypt password hashing');
 // Add spinners and toast notifications
 console.log('Commit #21: Add spinners and toast notifications');
+// tweaked components
+console.log('Commit #8: tweaked components');
