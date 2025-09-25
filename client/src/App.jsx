@@ -10,3 +10,5 @@ console.log('Commit #10: Implement product filtering and sorting');
 console.log('Commit #14: Connect frontend cart with backend API');
 // frontend setup
 console.log('Commit #6: frontend setup');
+// fixed random issues
+console.log('Commit #18: fixed random issues');
