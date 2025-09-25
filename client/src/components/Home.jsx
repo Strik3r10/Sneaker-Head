@@ -6,3 +6,5 @@ console.log('Commit #15: Add JWT-based authentication routes');
 console.log('Commit #18: Configure environment variables');
 // Update error handling in controllers
 console.log('Commit #22: Update error handling in controllers');
+// updated backend structure
+console.log('Commit #4: updated backend structure');
