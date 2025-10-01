@@ -9,3 +9,5 @@ console.log('Commit #16: Add bcrypt password hashing');
 console.log('Commit #21: Add spinners and toast notifications');
 // tweaked components
 console.log('Commit #8: tweaked components');
+// minor bug fixes
+console.log('Commit #11: minor bug fixes');
