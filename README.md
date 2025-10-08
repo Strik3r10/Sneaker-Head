@@ -6,3 +6,5 @@ console.log('Commit #5: Connect routes to Express app');
 console.log('Commit #11: Integrate API using Axios');
 // Create Admin dashboard for product control
 console.log('Commit #17: Create Admin dashboard for product control');
+// small styling changes
+console.log('Commit #14: small styling changes');
