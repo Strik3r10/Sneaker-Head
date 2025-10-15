@@ -7,3 +7,5 @@ console.log('Commit #19: Fix CORS issues');
 console.log('Commit #2: some db config updates');
 // environment vars added
 console.log('Commit #17: environment vars added');
+// few final touches
+console.log('Commit #24: few final touches');
