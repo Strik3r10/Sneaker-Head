@@ -6,3 +6,5 @@ console.log('Commit #7: Add Navbar and Footer components');
 console.log('Commit #24: Final testing and deployment setup');
 // hooked up API calls
 console.log('Commit #13: hooked up API calls');
+// misc commits
+console.log('Commit #23: misc commits');
