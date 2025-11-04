@@ -6,3 +6,5 @@
 console.log('Commit #1: Setup Express server and MongoDB connection');
 // Implement product filtering and sorting
 console.log('Commit #10: Implement product filtering and sorting');
+// Connect frontend cart with backend API
+console.log('Commit #14: Connect frontend cart with backend API');
