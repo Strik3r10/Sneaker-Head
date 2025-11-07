@@ -3,3 +3,5 @@
 // Connect frontend cart with backend API
 // Refactor backend structure
 console.log('Commit #23: Refactor backend structure');
+// folder restructuring
+console.log('Commit #16: folder restructuring');
